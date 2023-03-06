@@ -90,6 +90,7 @@ __`주니어 개발자의 학습목록`__
 #### [UnitTest for Xcode](https://velog.io/@wimes/UnitTest-for-Xcode)
 - 한국어 포스팅
 - Unit Test에 대한 기본적인 설명이 국내 자료는 내용을 많이 생략하고 방법만 적은 것이 많은데, 인과적으로 근거를 두고 잘 설명하고 있음
+❗️링크가 사라진듯
 
 #### [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/960290-ios-unit-testing-and-ui-testing-tutorial)
 - Raywenderlich의 Unit Test 예제
